@@ -1,6 +1,6 @@
 # Thesis
 
-How to Run:
+## How to Run:
 
 - Activate virtual enviroment:
 source /your_path/pdf_chat/env/bin/activate
