@@ -3,11 +3,14 @@
 ## How to Run:
 
 - Activate virtual enviroment:
+
 source /your_path/pdf_chat/env/bin/activate
 
-- Run app
+- Run app:
+
 streamlit run app.py
 
-- Deactivate enviroment after run
+- Deactivate enviroment after run:
+
 deactivate
   
